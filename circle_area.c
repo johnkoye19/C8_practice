@@ -5,7 +5,7 @@
 int main(void)
 {
     const float pi = 3.142;
-    float r = 4, h = 5, /*CylinderV*/, CircleA;
+    float r = 4, h = 5, /*CylinderV*/CircleA;
     
     CircleA = pi * r * r;
     
