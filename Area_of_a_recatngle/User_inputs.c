@@ -13,7 +13,7 @@ int main(void)
     printf("No spaces!\n");
     scanf("%f,%f", &Len, &width);
     float Area = Len * width;
-    printf("Area is %f square units", Area);
+    printf("Area is %f square unitsi\n", Area);
 
     return (0);
 }

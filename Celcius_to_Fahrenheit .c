@@ -8,7 +8,7 @@ int main() {
      
     //printf("Hello world");
     c = (1.8 * a) + 32;
-    printf("%f degrees is equal to %f Fahrenheit", a, c);
+    printf("%f degrees is equal to %f Fahrenheit\n", a, c);
 
     return (0);
 }

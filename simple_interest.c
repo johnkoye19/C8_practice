@@ -14,7 +14,7 @@ int main()
     
     A = P * (1 + (r *t));
     printf("For a sum of %f dollars, rate of %f per annum and time of %f years", P, r, t);
-    printf(", Simple interest is %f dollars", A - P);
+    printf(", Simple interest is %f dollars\n", A - P);
 
     return 0;
 }

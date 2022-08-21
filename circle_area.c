@@ -1,3 +1,4 @@
+#include <stdio.h>
 /**
 * main - area with hard coded inputs
 * Return: returns 0(sucess)
@@ -10,7 +11,7 @@ int main(void)
     CircleA = pi * r * r;
     
     
-    printf("The Area of the circle is %f square units", CircleA);
+    printf("The Area of the circle is %f square units\n", CircleA);
     /*printf(", while the volume of tge cylinder is %f cubic units", CylinderV);*/
     
     return (0);
